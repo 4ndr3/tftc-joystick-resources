@@ -1,10 +1,9 @@
-name: Documentation
+name: GH-Pages
 on:
   push:
     branches:
       - master
       - main
-      - feat-*
 permissions:
   contents: read
   pages: write

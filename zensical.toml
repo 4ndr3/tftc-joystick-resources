@@ -10,7 +10,7 @@
 site_name = "TFTC Joystick Resources"
 site_description = "TIE Fighter Total Conversion (TFTC) Joystick Resources"
 site_author = "TFTC Joystick Resources Authors"
-site_url = "https://tftc-joystick-resources.github.io/"
+site_url = "https://edemirkan.github.io/tftc-joystick-resources"
 copyright = """
 Copyright &copy; 2026 TFTC Joystick Resources Authors
 """

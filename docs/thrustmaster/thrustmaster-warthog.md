@@ -43,5 +43,5 @@ To use a Joystick Gremlin profile, it is assumed that you have done the followin
 ## :material-cog: Profile 3
 
 - [Star_Wars_XWAU.fcf](./warthog/profile-3/Star_Wars_XWAU.fcf)
-- [Star_Wars_XWAU.pdf](./warthog/profile-1/Star_Wars_XWAU.pdf)
+- [Star_Wars_XWAU.pdf](./warthog/profile-3/Star_Wars_XWAU.pdf)
 

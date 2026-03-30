@@ -18,5 +18,7 @@
 ## :material-cog: Profile 2
 
 [Star_Wars_XWAU_Stick.pdf](./x56/profile-2/Star_Wars_XWAU_Stick.pdf)
+
 [Star_Wars_XWAU_Throttle.pdf](./x56/profile-2/Star_Wars_XWAU_Throttle.pdf)
+
 [Star_Wars_XWAU.pr0](./x56/profile-2/Star_Wars_XWAU.pr0)
